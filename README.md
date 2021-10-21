@@ -21,3 +21,18 @@ For your content submission, you will have 48 hours to create and submit:
 
 ## Demonstrational Resources
 Sample Screenshots of Code and Inspiration can be found under the `sample` directory. 
+
+## Sample Details
+### Also in `resources\details.txt`
+
+- Title: TEDxMITWPU - Reshaping Paradigms
+- Venue: MIT WPU, Kothrud, Pune.
+- Date & Time: 25th October 2021, 6 p.m. to 8 p.m.
+- Speakers: Choose any or use Demonstrative names.
+
+## Helpful Links
+
+- For Filler text & Content: https://www.lipsum.com/
+- For Icons and Vectors: https://www.flaticon.com/
+
+Feel free to use any Services you might be aware of.

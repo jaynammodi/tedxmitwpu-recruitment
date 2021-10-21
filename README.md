@@ -27,7 +27,7 @@ Sample Screenshots of Code and Inspiration can be found under the `sample` direc
 
 - Title: TEDxMITWPU - Reshaping Paradigms
 - Venue: MIT WPU, Kothrud, Pune.
-- Date & Time: 25th October 2021, 6 p.m. to 8 p.m.
+- Date & Time: 25th October 2021, 4 p.m. to 10 p.m.
 - Speakers: Choose any or use Demonstrative names.
 
 ## Helpful Links
